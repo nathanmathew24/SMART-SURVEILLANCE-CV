@@ -17,10 +17,10 @@ A real-time smart surveillance web application that combines four computer visio
 
 | Name | Student ID |
 |------|------------|
-| _______________ | __________ |
-| _______________ | __________ |
-| _______________ | __________ |
-| _______________ | __________ |
+| NATHAN MATHEW | 8183284 |
+| ARYA SUNIL | 8248497 |
+| ASIL HABIB | 8392201 |
+| BASIL HABIB | 8392237 |
 
 ---
 
