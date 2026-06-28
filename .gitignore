@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model weights (large binary files – download separately)
+models/*.pt
+
+# Ultralytics run artefacts
+runs/
+
+# Dataset downloads
+dataset/
+fine_tuning/dataset/
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Secrets
+.env
+*.key
